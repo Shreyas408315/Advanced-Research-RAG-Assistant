@@ -1,0 +1,8 @@
+chromadb>=0.5,<2
+sentence-transformers>=3,<6
+rank-bm25>=0.2.2,<1
+pypdf>=5,<7
+google-genai>=1,<2
+python-dotenv>=1,<2
+streamlit>=1.38,<2
+pytest>=8,<10
